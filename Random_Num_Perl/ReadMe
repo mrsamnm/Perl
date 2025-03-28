@@ -1,0 +1,13 @@
+Random-num-Perl
+Description:
+
+A perl script that selects a random number between 1 and 100 and guides a user to it.
+Use:
+
+    Make sure that you have perl installed, i.e perl -v
+
+    Once you download the file, ensure that it has the right permissions to execute.
+
+    The file executes Perl from /usr/bin/perl path. Change this to whichever path your perl command is posited e.g /usr/local/bin/perl
+
+    Run the executable file "./random100.pl" and begin obeying the clues.
